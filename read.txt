@@ -1,0 +1,9 @@
+Hey Layno Bot ist ein Multi Tool discord bot das erstmal in deutsch ist, aber in der zukunft auch in anderen sprachen.
+Der Bot wird Jede Paar Tage vergrößert und besser gemacht aktuell als Systeme 
+Willkommenssystem
+Embed Creator
+Autodelete
+Clear 
+
+Invite Link > https://discord.com/oauth2/authorize?client_id=1223267985301700698&permissions=8&scope=bot
+Support Server > https://discord.gg/Qc2tjg8EGa
